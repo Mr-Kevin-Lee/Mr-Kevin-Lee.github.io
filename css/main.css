@@ -133,7 +133,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 }
 
 #intro {
-    background-color: #333332;
+    background-color: #333333;
     display: block;
     position: relative;
     height: 100%;
@@ -166,7 +166,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
     text-align: center;
     display: inline-block;
     width: 50%;
-    margin-top: 200px;
+    margin-top: 3em;
 }
 
 #about{
@@ -175,7 +175,9 @@ table, caption, tbody, tfoot, thead, tr, th, td {
     position: relative;
     color:#111111;
     height:auto;
+    margin: 0 auto;
     margin-bottom: 5%;
+    width: 75%;
 }
 
 #about p {
@@ -187,7 +189,6 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 
 #about-text {
     text-align: left;
-    width: 640px;
     margin: 0 auto;
 }
 
