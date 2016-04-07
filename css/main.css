@@ -122,6 +122,17 @@ table, caption, tbody, tfoot, thead, tr, th, td {
     overflow-x: hidden; 
 }
 
+#nav {
+    margin-bottom: 0;
+}
+
+#nav li {
+    float: left;
+    margin-right: 30px;
+    list-style: none;
+    width: 100px;
+}
+
 #body {
     height: 100%;
 }
